@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Events</title>
+        <link rel="icon" href="img/date.png">
+    </head>
+    
+    <body bgcolor="black"style="color:white;">
+        <center>
+         <h1>upcoming Event 2025</h1>
+         <P>Enjoy every event it a fashion eventcome with your friends and family </P>
+        </center>
+        <hr>
+        <p>
+            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum, ullam cupiditate magnam, dolorem perferendis debitis, facilis eum culpa fuga molestiae voluptates. Earum cupiditate optio illo facere repudiandae et magnam obcaecati dolores! Natus assumenda minus officia? Veritatis laudantium odio qui autem ad ullam sapiente id. Cumque illo labore exercitationem culpa praesentium voluptas, vitae libero rem veniam quis in quidem ipsa veritatis quisquam, dicta rerum! Dolores non numquam quas aliquam, esse ea alias, sit, quis magni perferendis earum et eveniet. Id tempore aspernatur nulla amet hic in ea numquam, culpa fuga ducimus pariatur sequi adipisci nobis ipsum repellat dolores saepe cum consequatur. 
+        
+        
+        </p>
+        <center>
+        <img src="img/event1.png">
+        <h1>Entry rs 100</h1>
+        <h2>This event students are allowed</h2>
+        <h3>Free food/provide gifts/pets are not allowed</h3>
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illum voluptas libero numquam inventore quia explicabo voluptates eligendi blanditiis. Esse tempore dolorem minima harum, corporis iste placeat maiores exercitationem officiis deleniti nisi enim distinctio eum alias obcaecati aut quo. Sapiente et atque ad amet. Aliquid provident magnam nobis nulla. Vel dicta aperiam commodi, reiciendis natus laudantium, id maxime deserunt autem voluptates unde! Iusto exercitationem voluptatum ipsam fugit qui vitae, esse voluptates totam quibusdam, odit molestias quasi. Ullam eius qui similique velit exercitationem eaque id rem eos dicta deserunt? Recusandae eveniet, ad labore et dolore vel voluptatum, excepturi maxime porro sequi veritatis?</p>
+        </center>
+
+        <center>
+            <img src="img/event2.png">
+        </center>
+        <h1>
+            <center>
+            <a href="https://www.myntra.com/?utm_source=dms_google&utm_medium=searchbrand_cpc&utm_campaign=dms_google_searchbrand_cpc_Search_Brand_Myntra_Brand_India_BM_TROAS_SOK_New&gad_source=1&gclid=CjwKCAiA2cu9BhBhEiwAft6IxCI0RzyaSQhjPxyq8Pw__mrChC6yEs6eVpGIUjXvqpwbohZdeTCxMhoCBfoQAvD_BwE" >Fashion store</a>
+            <h1>happy event with good vibe</h1>
+            <p>happy thanks for coming all friends and family it was a beautiful event nightit is so nice event</p> 
+            <hr>
+        </center>
+        <center>
+        <h1> contact</h1>
+        <h2>12345789 www.com</h2>
+        <p>6th street raj nagar birds road</p>
+    </center>
+    </body>
+
+
+
+
+
+
+
+</html>
